@@ -1,0 +1,63 @@
+/* .Contact-page {
+    width: 100%; 
+    max-width: 1000px; 
+    text-align: center;
+    color: pink;
+} */
+
+.container{
+    /* padding-left: 450px; */
+    width: 278%;
+    margin-top: -75px;
+    
+}
+.contacts-container {
+    margin: 20px;
+    padding: 20px;
+    max-width: 700px;
+    text-align: center;
+    background-color: #f8f8f8; /* Add background color for better visibility */
+    border-radius: 10px; /* Add border-radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    margin: 20px auto; /* Center the container horizontally */
+  }
+  
+  .contacts-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333; /* Adjust the color for better readability */
+  }
+  
+  .contact-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center the items horizontally */
+  }
+  
+  .contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .co {
+    padding-left: 20px;
+    color: black;
+  }
+  
+  .contact-item svg {
+    font-size: 20px; /* Adjust the icon size */
+    margin-right: 10px;
+    color: #007bff; /* Set the icon color */
+  }
+  
+  .contact-item a {
+    text-decoration: none;
+    color: #007bff; /* Set the link color */
+    font-weight: bold; /* Make the link bold */
+  }
+  
+  .contact-item span {
+    margin-left: 5px;
+  }
+  
