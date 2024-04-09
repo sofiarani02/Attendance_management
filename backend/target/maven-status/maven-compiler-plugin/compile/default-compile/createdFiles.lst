@@ -1,0 +1,14 @@
+com\example\CRUD\UserRepository.class
+com\example\CRUD\UserController.class
+com\example\CRUD\UserService.class
+com\example\CRUD\CrudApplication.class
+com\example\CRUD\LoginUser.class
+com\example\CRUD\CorsConfig.class
+com\example\CRUD\User.class
+com\example\CRUD\StorageRepository.class
+com\example\CRUD\JwtTokenService.class
+com\example\CRUD\ImageData.class
+com\example\CRUD\StorageService.class
+com\example\CRUD\LoginUserRepository.class
+com\example\CRUD\ChangePasswordRequest.class
+com\example\CRUD\ChangeUsernameRequest.class
